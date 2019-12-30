@@ -12,7 +12,7 @@ RUN yarn
 RUN pwd
 RUN yarn theia build
 
-RUN apt-get install ruby-full
+RUN apt update
 
 EXPOSE 3000
 
