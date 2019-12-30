@@ -14,14 +14,6 @@ Move to that project directory
 cd pair-programing
 ```
 
-## Program folder
-
-```
-mkdir program
-```
-Once your `program` folder is created you can put existing code there which you wish to work with.
-
-
 ## Run using docker
 
 ```
